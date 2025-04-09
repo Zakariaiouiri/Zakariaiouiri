@@ -1,15 +1,15 @@
-<h1 align="center">Hey, I'm Brahim 👋</h1>
+<h1 align="center">Hey, I'm Zakaria Iouiri 👋</h1>
 
 <p align="center">
-  🚀 Frontend Developer | ⚛️ React Enthusiast | 🎯 Focused on Clean Code & UI
+  🚀 Frontend Developer | 🎯 Focused on Clean Code & UI
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🧠 Currently building my personal **React portfolio** with **Vite**  
-- 🎯 Passionate about **JavaScript**, **UI/UX**, and crafting sleek web experiences  
+- 🧠 Currently learning **React** 
+- 🎯 Passionate about **TypeScript**, **UI/UX**, and crafting sleek web experiences  
 - 🛠 Always exploring better workflows and developer tools  
 - 🗂 Organizing projects and folders like it's an art form  
 - 🔄 Constantly learning, iterating, and shipping
