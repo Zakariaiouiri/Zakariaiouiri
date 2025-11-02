@@ -1,10 +1,12 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
+<h1 align="left">Hi 👋! I'm Zakaria iouiri.</h1>
 
 ###
 
-<h1 align="left">Hi 👋! I'm Zakaria iouiri and I'm a Frontend developer.</h1>
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
 ###
 
@@ -40,6 +42,12 @@
   <img src="https://cdn.simpleicons.org/sass/CC6699" height="36" alt="sass logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=java" height="36" alt="java logo"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
@@ -85,9 +93,5 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Zakariaiouiri&theme=darkhub&column=-1&row=1&margin-w=2&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Zakariaiouiri/Zakariaiouiri/output/snake.svg" alt="Snake animation" />
 
 ###
